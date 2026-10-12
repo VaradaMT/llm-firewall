@@ -1,0 +1,8 @@
+transformers==5.18.0
+torch==2.11.0+cu130
+datasets
+scikit-learn
+pandas
+sentencepiece
+lime
+gradio
